@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Denzi
 
-I hold a Bachelor's degree in Computer Science and I'm a Smart Contract Auditor passionate about securing the web3 space. Currently, I'm partipating in security contests on various platforms. I started my journey in blockchain security/development in January 2024. Since then I have participated in many contests and completed projects part of Cyfrin's updraft program with some good results. 
+I hold a Bachelor's degree in Computer Science and I'm a Smart Contract Auditor passionate about securing the web3 space. Currently, I'm partipating in security contests on various platforms. I started my journey in blockchain security/development in January 2024. Since then I have participated in many contests with good results. 
 
 ## 🚀 About Me
 - 🔭 I'm currently working on Solidity Contests
