@@ -4,7 +4,7 @@ I hold a Bachelor's degree in Computer Science and I'm a Smart Contract Auditor 
 
 ## 🚀 About Me
 - 🔭 I'm currently working on Solidity Contests
-- 🌱 I'm currently learning Rust to expand my security options
+- 🌱 I'm currently learning Rust and Go to expand my security options
 - 👯 I'm looking to collaborate on any security contests or development projects in blockchain
 
 ## 🛠️ Technologies & Tools
