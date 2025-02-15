@@ -32,6 +32,7 @@ I hold a Bachelor's degree in Computer Science and I'm a Smart Contract Auditor 
 | Winnables Raffles | [🔗 Sherlock](https://audits.sherlock.xyz/contests/516) | #33 | H-1, M-1 |
 | ZeroLend One | [🔗 Sherlock](https://audits.sherlock.xyz/contests/466) | #20 | H-1, M-2 |
 | Boost Core | [🔗 Sherlock](https://audits.sherlock.xyz/contests/426) | #11 | M-2 |
+| Primev | [🔗 Cantina](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c) | #10 | H-4, M-2 |
 
 ## 🎯 Other Work & Interests
 
